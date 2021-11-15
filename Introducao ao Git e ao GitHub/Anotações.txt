@@ -1,0 +1,1 @@
+Arquivo com anotações relacionadas ao estudo sobre Git e GitHub
